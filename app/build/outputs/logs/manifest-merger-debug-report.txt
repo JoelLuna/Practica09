@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\277a0000029c70a1dd33c75c99ff13b1\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\29b4775e565af34505857cc6c1920374\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\7a084eab468ba7713f4a2568eae9fffb\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\42d8e0ed4843c0d3d5d51b9fc1987774\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\32e254e675254af576441545fade93fb\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\76deb6c6f91d26045e33509c34ac3b85\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\6cb5aba1c26e65dd61c480892828ea55\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\0e5005cbdcf98579e7f9ab7b456a9e0f\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\ed9e9cc38bf3b2cdb817be72d8815e28\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\ca15bf5e7f38eecb79f595a71749aad8\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\d5da4e75b65bb1867ab08aac9853b621\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\785ddfef7bdb60f55957c2511ff52f75\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\20a5614589485fdd0b11041124e469e1\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\846ed24b63d65031eab655e554bfb0b5\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\e0a3cbe66f34bb00b4c3d679e4585428\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\369ed216ba4dad00603ca484cc5e8442\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\0bd7bb57d9e06229474ba248e1897627\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\7e01c306faabd81bff3432524fd4d19a\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\9f5daf7fb616e2bd7f339df82a37891e\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\c274babc2c2ebad1ccc4e30db3b4c429\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\6ef428b8df68b01fb3caf76fbede55b9\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\64fdc770ff620f705897740fc2676ee9\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\40e455d7176d4dc5f068145cce552f32\core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\1c3a1df31744861a9c6723b84f8a0527\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\c55fcf495c484de92d2753d45f85e77e\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\39d718f8c124ffab8a6f528c6c281c9e\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\530eb135f30bb0de37eb4dcf01f76f49\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\76dc51ee46fc841309df514cff29e2d7\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\8d19a906e4f2c29deaed77314f8ce4d9\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\90b9e4c994e5c499d2e29a3a49d25967\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\6b124741d49eb325f5cc05914a30274c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\fdf02435e2f9c600f8c771c6d5e73e9c\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\dbb6bd328bc59357ffa85cff67f5638c\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\3761833aadbb3ea0185918f9c2fb6f93\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\556f6e37b89d58ad3a6d4ca764bf1573\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:5:22-78
+application
+ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:7:5-22:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\277a0000029c70a1dd33c75c99ff13b1\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\277a0000029c70a1dd33c75c99ff13b1\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\42d8e0ed4843c0d3d5d51b9fc1987774\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\42d8e0ed4843c0d3d5d51b9fc1987774\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.2.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\40e455d7176d4dc5f068145cce552f32\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\40e455d7176d4dc5f068145cce552f32\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\c55fcf495c484de92d2753d45f85e77e\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\c55fcf495c484de92d2753d45f85e77e\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\40e455d7176d4dc5f068145cce552f32\core-1.2.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:13:9-40
+activity#luna.joel.misnotas_165454.AgregarNota
+ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:14:9-58
+	android:name
+		ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:14:19-46
+activity#luna.joel.misnotas_165454.MainActivity
+ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\277a0000029c70a1dd33c75c99ff13b1\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\277a0000029c70a1dd33c75c99ff13b1\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\29b4775e565af34505857cc6c1920374\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\29b4775e565af34505857cc6c1920374\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\7a084eab468ba7713f4a2568eae9fffb\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\7a084eab468ba7713f4a2568eae9fffb\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\42d8e0ed4843c0d3d5d51b9fc1987774\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\42d8e0ed4843c0d3d5d51b9fc1987774\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\32e254e675254af576441545fade93fb\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\32e254e675254af576441545fade93fb\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\76deb6c6f91d26045e33509c34ac3b85\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\76deb6c6f91d26045e33509c34ac3b85\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\6cb5aba1c26e65dd61c480892828ea55\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\6cb5aba1c26e65dd61c480892828ea55\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\0e5005cbdcf98579e7f9ab7b456a9e0f\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\0e5005cbdcf98579e7f9ab7b456a9e0f\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\ed9e9cc38bf3b2cdb817be72d8815e28\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\ed9e9cc38bf3b2cdb817be72d8815e28\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\ca15bf5e7f38eecb79f595a71749aad8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\ca15bf5e7f38eecb79f595a71749aad8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\d5da4e75b65bb1867ab08aac9853b621\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\d5da4e75b65bb1867ab08aac9853b621\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\785ddfef7bdb60f55957c2511ff52f75\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\785ddfef7bdb60f55957c2511ff52f75\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\20a5614589485fdd0b11041124e469e1\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\20a5614589485fdd0b11041124e469e1\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\846ed24b63d65031eab655e554bfb0b5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\846ed24b63d65031eab655e554bfb0b5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\e0a3cbe66f34bb00b4c3d679e4585428\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\e0a3cbe66f34bb00b4c3d679e4585428\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\369ed216ba4dad00603ca484cc5e8442\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\369ed216ba4dad00603ca484cc5e8442\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\0bd7bb57d9e06229474ba248e1897627\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\0bd7bb57d9e06229474ba248e1897627\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\7e01c306faabd81bff3432524fd4d19a\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\7e01c306faabd81bff3432524fd4d19a\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\9f5daf7fb616e2bd7f339df82a37891e\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\9f5daf7fb616e2bd7f339df82a37891e\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\c274babc2c2ebad1ccc4e30db3b4c429\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\c274babc2c2ebad1ccc4e30db3b4c429\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\6ef428b8df68b01fb3caf76fbede55b9\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\6ef428b8df68b01fb3caf76fbede55b9\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\64fdc770ff620f705897740fc2676ee9\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\64fdc770ff620f705897740fc2676ee9\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\40e455d7176d4dc5f068145cce552f32\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\40e455d7176d4dc5f068145cce552f32\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\1c3a1df31744861a9c6723b84f8a0527\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\1c3a1df31744861a9c6723b84f8a0527\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\c55fcf495c484de92d2753d45f85e77e\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\c55fcf495c484de92d2753d45f85e77e\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\39d718f8c124ffab8a6f528c6c281c9e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\39d718f8c124ffab8a6f528c6c281c9e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\530eb135f30bb0de37eb4dcf01f76f49\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\530eb135f30bb0de37eb4dcf01f76f49\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\76dc51ee46fc841309df514cff29e2d7\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\76dc51ee46fc841309df514cff29e2d7\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\8d19a906e4f2c29deaed77314f8ce4d9\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\8d19a906e4f2c29deaed77314f8ce4d9\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\90b9e4c994e5c499d2e29a3a49d25967\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\90b9e4c994e5c499d2e29a3a49d25967\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\6b124741d49eb325f5cc05914a30274c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\6b124741d49eb325f5cc05914a30274c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\fdf02435e2f9c600f8c771c6d5e73e9c\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\fdf02435e2f9c600f8c771c6d5e73e9c\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\dbb6bd328bc59357ffa85cff67f5638c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\dbb6bd328bc59357ffa85cff67f5638c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\3761833aadbb3ea0185918f9c2fb6f93\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\3761833aadbb3ea0185918f9c2fb6f93\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\556f6e37b89d58ad3a6d4ca764bf1573\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Luna\.gradle\caches\transforms-2\files-2.1\556f6e37b89d58ad3a6d4ca764bf1573\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Luna\Documents\GitHub\MisNotas_165454\app\src\main\AndroidManifest.xml
